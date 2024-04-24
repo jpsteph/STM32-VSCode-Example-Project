@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\LENOVO\\Documents\\STM32\\STM32F411_MIC\\build",
+            "binaryPath": "c:\\Users\\LENOVO\\Documents\\STM32\\STM32F411_MIC\\build\\MAKEFILE.elf",
+            "binaryArgs": []
+        }
+    ]
+}
